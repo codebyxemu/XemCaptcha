@@ -1,0 +1,5 @@
+name: XemCaptcha
+version: ${project.version}
+main: me.xemu.xemcaptcha.XemCaptcha
+api-version: 1.16
+authors: [ Xemu ]
